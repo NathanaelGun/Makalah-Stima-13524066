@@ -510,6 +510,43 @@ def save_results_to_csv(results: list, filename: str = "hasil_simulasi.csv"):
             })
     print(f"[OK] Hasil disimpan ke: {filename}")
 
+def generate_comparison_chart(results: list, filename: str = "comparison_chart.png"):
+    """
+    Men-generate chart perbandingan A* Guided vs Baseline dengan Matplotlib.
+    """
+    import matplotlib.pyplot as plt
+    
+    scenarios = [f"{r['start']}\n({r['time'].split(' ')[0]})" for r in results]
+    astar = [r['astar'] for r in results]
+    random_avg = [r['baseline_avg'] for r in results]
+    
+    x = np.arange(len(scenarios))
+    width = 0.35
+    
+    fig, ax = plt.subplots(figsize=(8, 5))
+    ax.bar(x - width/2, astar, width, label='A* Guided', color='#2196F3')
+    ax.bar(x + width/2, random_avg, width, 
+           label='Random Baseline (avg 20 trials)', color='#FF9800', alpha=0.8)
+    
+    ax.set_ylabel('Total Time (minutes)')
+    ax.set_title('A* Guided vs. Unguided Random Baseline')
+    ax.set_xticks(x)
+    ax.set_xticklabels(scenarios)
+    ax.legend()
+    ax.grid(axis='y', alpha=0.3)
+    
+    for i, (a, r) in enumerate(zip(astar, random_avg)):
+        delta = r - a
+        color = 'green' if delta > 0 else 'red'
+        sign = '+' if delta > 0 else ''
+        ax.annotate(f'{sign}{delta:.0f}min', xy=(i, max(a,r)+5), 
+                    ha='center', fontsize=9, color=color, fontweight='bold')
+                    
+    plt.tight_layout()
+    plt.savefig(filename, dpi=150, bbox_inches='tight')
+    plt.close()
+    print(f"[OK] Grafik perbandingan disimpan ke: {filename}")
+
 if __name__ == "__main__":
     CSV_PATH = "data_antrean_5_wahana.csv"
     index, timestamps = load_dataset(CSV_PATH)
@@ -517,3 +554,4 @@ if __name__ == "__main__":
     results_table = run_all_scenarios(index, timestamps)
     print_results_table(results_table)
     save_results_to_csv(results_table)
+    generate_comparison_chart(results_table)
