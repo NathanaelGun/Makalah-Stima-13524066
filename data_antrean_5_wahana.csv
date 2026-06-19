@@ -1,0 +1,316 @@
+timestamp,ride_name,wait_time,status
+2025-12-20 23:32:53,Jurassic Park River Adventure™,0,Closed
+2025-12-20 23:32:53,Jurassic World VelociCoaster,70,Open
+2025-12-20 23:32:53,The Amazing Adventures of Spider-Man®,80,Open
+2025-12-20 23:32:53,The Incredible Hulk Coaster®,50,Open
+2025-12-20 23:32:53,Hagrid's Magical Creatures Motorbike Adventure™,150,Open
+2025-12-20 23:42:56,Jurassic Park River Adventure™,0,Closed
+2025-12-20 23:42:56,Jurassic World VelociCoaster,55,Open
+2025-12-20 23:42:56,The Amazing Adventures of Spider-Man®,65,Open
+2025-12-20 23:42:56,The Incredible Hulk Coaster®,50,Open
+2025-12-20 23:42:56,Hagrid's Magical Creatures Motorbike Adventure™,150,Open
+2025-12-20 23:53:05,Jurassic Park River Adventure™,0,Closed
+2025-12-20 23:53:05,Jurassic World VelociCoaster,55,Open
+2025-12-20 23:53:05,The Amazing Adventures of Spider-Man®,50,Open
+2025-12-20 23:53:05,The Incredible Hulk Coaster®,50,Open
+2025-12-20 23:53:05,Hagrid's Magical Creatures Motorbike Adventure™,135,Open
+2025-12-21 00:03:06,Jurassic Park River Adventure™,0,Closed
+2025-12-21 00:03:06,Jurassic World VelociCoaster,55,Open
+2025-12-21 00:03:06,The Amazing Adventures of Spider-Man®,50,Open
+2025-12-21 00:03:06,The Incredible Hulk Coaster®,50,Open
+2025-12-21 00:03:06,Hagrid's Magical Creatures Motorbike Adventure™,120,Open
+2025-12-21 00:13:07,Jurassic Park River Adventure™,5,Open
+2025-12-21 00:13:07,Jurassic World VelociCoaster,55,Open
+2025-12-21 00:13:07,The Amazing Adventures of Spider-Man®,55,Open
+2025-12-21 00:13:07,The Incredible Hulk Coaster®,50,Open
+2025-12-21 00:13:07,Hagrid's Magical Creatures Motorbike Adventure™,120,Open
+2025-12-21 00:23:08,Jurassic Park River Adventure™,5,Open
+2025-12-21 00:23:08,Jurassic World VelociCoaster,55,Open
+2025-12-21 00:23:08,The Amazing Adventures of Spider-Man®,55,Open
+2025-12-21 00:23:08,The Incredible Hulk Coaster®,35,Open
+2025-12-21 00:23:08,Hagrid's Magical Creatures Motorbike Adventure™,120,Open
+2025-12-21 00:33:09,Jurassic Park River Adventure™,20,Open
+2025-12-21 00:33:09,Jurassic World VelociCoaster,55,Open
+2025-12-21 00:33:09,The Amazing Adventures of Spider-Man®,55,Open
+2025-12-21 00:33:09,The Incredible Hulk Coaster®,35,Open
+2025-12-21 00:33:09,Hagrid's Magical Creatures Motorbike Adventure™,120,Open
+2025-12-21 00:43:09,Jurassic Park River Adventure™,20,Open
+2025-12-21 00:43:09,Jurassic World VelociCoaster,70,Open
+2025-12-21 00:43:09,The Amazing Adventures of Spider-Man®,60,Open
+2025-12-21 00:43:09,The Incredible Hulk Coaster®,35,Open
+2025-12-21 00:43:09,Hagrid's Magical Creatures Motorbike Adventure™,120,Open
+2025-12-21 00:53:10,Jurassic Park River Adventure™,60,Open
+2025-12-21 00:53:10,Jurassic World VelociCoaster,70,Open
+2025-12-21 00:53:10,The Amazing Adventures of Spider-Man®,55,Open
+2025-12-21 00:53:10,The Incredible Hulk Coaster®,35,Open
+2025-12-21 00:53:10,Hagrid's Magical Creatures Motorbike Adventure™,120,Open
+2025-12-21 01:03:11,Jurassic Park River Adventure™,60,Open
+2025-12-21 01:03:11,Jurassic World VelociCoaster,75,Open
+2025-12-21 01:03:11,The Amazing Adventures of Spider-Man®,55,Open
+2025-12-21 01:03:11,The Incredible Hulk Coaster®,35,Open
+2025-12-21 01:03:11,Hagrid's Magical Creatures Motorbike Adventure™,120,Open
+2025-12-21 01:13:12,Jurassic Park River Adventure™,60,Open
+2025-12-21 01:13:12,Jurassic World VelociCoaster,75,Open
+2025-12-21 01:13:12,The Amazing Adventures of Spider-Man®,40,Open
+2025-12-21 01:13:12,The Incredible Hulk Coaster®,35,Open
+2025-12-21 01:13:12,Hagrid's Magical Creatures Motorbike Adventure™,120,Open
+2025-12-21 01:23:13,Jurassic Park River Adventure™,60,Open
+2025-12-21 01:23:13,Jurassic World VelociCoaster,75,Open
+2025-12-21 01:23:13,The Amazing Adventures of Spider-Man®,40,Open
+2025-12-21 01:23:13,The Incredible Hulk Coaster®,35,Open
+2025-12-21 01:23:13,Hagrid's Magical Creatures Motorbike Adventure™,120,Open
+2025-12-21 01:33:13,Jurassic Park River Adventure™,60,Open
+2025-12-21 01:33:13,Jurassic World VelociCoaster,75,Open
+2025-12-21 01:33:13,The Amazing Adventures of Spider-Man®,35,Open
+2025-12-21 01:33:13,The Incredible Hulk Coaster®,35,Open
+2025-12-21 01:33:13,Hagrid's Magical Creatures Motorbike Adventure™,120,Open
+2025-12-21 01:43:14,Jurassic Park River Adventure™,30,Open
+2025-12-21 01:43:14,Jurassic World VelociCoaster,80,Open
+2025-12-21 01:43:14,The Amazing Adventures of Spider-Man®,45,Open
+2025-12-21 01:43:14,The Incredible Hulk Coaster®,35,Open
+2025-12-21 01:43:14,Hagrid's Magical Creatures Motorbike Adventure™,120,Open
+2025-12-21 01:53:15,Jurassic Park River Adventure™,30,Open
+2025-12-21 01:53:15,Jurassic World VelociCoaster,80,Open
+2025-12-21 01:53:15,The Amazing Adventures of Spider-Man®,45,Open
+2025-12-21 01:53:15,The Incredible Hulk Coaster®,35,Open
+2025-12-21 01:53:15,Hagrid's Magical Creatures Motorbike Adventure™,120,Open
+2025-12-21 02:03:16,Jurassic Park River Adventure™,30,Open
+2025-12-21 02:03:16,Jurassic World VelociCoaster,80,Open
+2025-12-21 02:03:16,The Amazing Adventures of Spider-Man®,45,Open
+2025-12-21 02:03:16,The Incredible Hulk Coaster®,35,Open
+2025-12-21 02:03:16,Hagrid's Magical Creatures Motorbike Adventure™,110,Open
+2025-12-21 02:13:17,Jurassic Park River Adventure™,30,Open
+2025-12-21 02:13:17,Jurassic World VelociCoaster,80,Open
+2025-12-21 02:13:17,The Amazing Adventures of Spider-Man®,40,Open
+2025-12-21 02:13:17,The Incredible Hulk Coaster®,20,Open
+2025-12-21 02:13:17,Hagrid's Magical Creatures Motorbike Adventure™,110,Open
+2025-12-21 02:23:18,Jurassic Park River Adventure™,30,Open
+2025-12-21 02:23:18,Jurassic World VelociCoaster,60,Open
+2025-12-21 02:23:18,The Amazing Adventures of Spider-Man®,40,Open
+2025-12-21 02:23:18,The Incredible Hulk Coaster®,20,Open
+2025-12-21 02:23:18,Hagrid's Magical Creatures Motorbike Adventure™,130,Open
+2025-12-21 02:33:18,Jurassic Park River Adventure™,60,Open
+2025-12-21 02:33:18,Jurassic World VelociCoaster,60,Open
+2025-12-21 02:33:18,The Amazing Adventures of Spider-Man®,45,Open
+2025-12-21 02:33:18,The Incredible Hulk Coaster®,20,Open
+2025-12-21 02:33:18,Hagrid's Magical Creatures Motorbike Adventure™,150,Open
+2025-12-21 02:43:19,Jurassic Park River Adventure™,60,Open
+2025-12-21 02:43:19,Jurassic World VelociCoaster,50,Open
+2025-12-21 02:43:19,The Amazing Adventures of Spider-Man®,45,Open
+2025-12-21 02:43:19,The Incredible Hulk Coaster®,20,Open
+2025-12-21 02:43:19,Hagrid's Magical Creatures Motorbike Adventure™,150,Open
+2025-12-21 02:53:20,Jurassic Park River Adventure™,60,Open
+2025-12-21 02:53:20,Jurassic World VelociCoaster,45,Open
+2025-12-21 02:53:20,The Amazing Adventures of Spider-Man®,30,Open
+2025-12-21 02:53:20,The Incredible Hulk Coaster®,20,Open
+2025-12-21 02:53:20,Hagrid's Magical Creatures Motorbike Adventure™,150,Open
+2025-12-21 03:03:21,Jurassic Park River Adventure™,60,Open
+2025-12-21 03:03:21,Jurassic World VelociCoaster,45,Open
+2025-12-21 03:03:21,The Amazing Adventures of Spider-Man®,35,Open
+2025-12-21 03:03:21,The Incredible Hulk Coaster®,20,Open
+2025-12-21 03:03:21,Hagrid's Magical Creatures Motorbike Adventure™,150,Open
+2025-12-21 03:13:22,Jurassic Park River Adventure™,45,Open
+2025-12-21 03:13:22,Jurassic World VelociCoaster,45,Open
+2025-12-21 03:13:22,The Amazing Adventures of Spider-Man®,35,Open
+2025-12-21 03:13:22,The Incredible Hulk Coaster®,35,Open
+2025-12-21 03:13:22,Hagrid's Magical Creatures Motorbike Adventure™,150,Open
+2025-12-21 03:23:23,Jurassic Park River Adventure™,45,Open
+2025-12-21 03:23:23,Jurassic World VelociCoaster,45,Open
+2025-12-21 03:23:23,The Amazing Adventures of Spider-Man®,30,Open
+2025-12-21 03:23:23,The Incredible Hulk Coaster®,35,Open
+2025-12-21 03:23:23,Hagrid's Magical Creatures Motorbike Adventure™,150,Open
+2025-12-21 03:33:24,Jurassic Park River Adventure™,35,Open
+2025-12-21 03:33:24,Jurassic World VelociCoaster,45,Open
+2025-12-21 03:33:24,The Amazing Adventures of Spider-Man®,35,Open
+2025-12-21 03:33:24,The Incredible Hulk Coaster®,35,Open
+2025-12-21 03:33:24,Hagrid's Magical Creatures Motorbike Adventure™,150,Open
+2025-12-21 03:43:25,Jurassic Park River Adventure™,35,Open
+2025-12-21 03:43:25,Jurassic World VelociCoaster,60,Open
+2025-12-21 03:43:25,The Amazing Adventures of Spider-Man®,35,Open
+2025-12-21 03:43:25,The Incredible Hulk Coaster®,20,Open
+2025-12-21 03:43:25,Hagrid's Magical Creatures Motorbike Adventure™,150,Open
+2025-12-21 03:53:26,Jurassic Park River Adventure™,15,Open
+2025-12-21 03:53:26,Jurassic World VelociCoaster,60,Open
+2025-12-21 03:53:26,The Amazing Adventures of Spider-Man®,35,Open
+2025-12-21 03:53:26,The Incredible Hulk Coaster®,20,Open
+2025-12-21 03:53:26,Hagrid's Magical Creatures Motorbike Adventure™,195,Open
+2025-12-21 04:03:27,Jurassic Park River Adventure™,15,Open
+2025-12-21 04:03:27,Jurassic World VelociCoaster,50,Open
+2025-12-21 04:03:27,The Amazing Adventures of Spider-Man®,35,Open
+2025-12-21 04:03:27,The Incredible Hulk Coaster®,10,Open
+2025-12-21 04:03:27,Hagrid's Magical Creatures Motorbike Adventure™,195,Open
+2025-12-21 04:13:28,Jurassic Park River Adventure™,15,Open
+2025-12-21 04:13:28,Jurassic World VelociCoaster,50,Open
+2025-12-21 04:13:28,The Amazing Adventures of Spider-Man®,30,Open
+2025-12-21 04:13:28,The Incredible Hulk Coaster®,10,Open
+2025-12-21 04:13:28,Hagrid's Magical Creatures Motorbike Adventure™,195,Open
+2025-12-21 04:23:29,Jurassic Park River Adventure™,15,Open
+2025-12-21 04:23:29,Jurassic World VelociCoaster,50,Open
+2025-12-21 04:23:29,The Amazing Adventures of Spider-Man®,35,Open
+2025-12-21 04:23:29,The Incredible Hulk Coaster®,10,Open
+2025-12-21 04:23:29,Hagrid's Magical Creatures Motorbike Adventure™,195,Open
+2025-12-21 04:33:30,Jurassic Park River Adventure™,15,Open
+2025-12-21 04:33:30,Jurassic World VelociCoaster,50,Open
+2025-12-21 04:33:30,The Amazing Adventures of Spider-Man®,40,Open
+2025-12-21 04:33:30,The Incredible Hulk Coaster®,10,Open
+2025-12-21 04:33:30,Hagrid's Magical Creatures Motorbike Adventure™,195,Open
+2025-12-21 04:43:30,Jurassic Park River Adventure™,5,Open
+2025-12-21 04:43:30,Jurassic World VelociCoaster,50,Open
+2025-12-21 04:43:30,The Amazing Adventures of Spider-Man®,45,Open
+2025-12-21 04:43:30,The Incredible Hulk Coaster®,25,Open
+2025-12-21 04:43:30,Hagrid's Magical Creatures Motorbike Adventure™,195,Open
+2025-12-21 04:53:31,Jurassic Park River Adventure™,5,Open
+2025-12-21 04:53:31,Jurassic World VelociCoaster,50,Open
+2025-12-21 04:53:31,The Amazing Adventures of Spider-Man®,45,Open
+2025-12-21 04:53:31,The Incredible Hulk Coaster®,20,Open
+2025-12-21 04:53:31,Hagrid's Magical Creatures Motorbike Adventure™,165,Open
+2025-12-21 05:03:32,Jurassic Park River Adventure™,5,Open
+2025-12-21 05:03:32,Jurassic World VelociCoaster,50,Open
+2025-12-21 05:03:32,The Amazing Adventures of Spider-Man®,50,Open
+2025-12-21 05:03:32,The Incredible Hulk Coaster®,20,Open
+2025-12-21 05:03:32,Hagrid's Magical Creatures Motorbike Adventure™,165,Open
+2025-12-21 05:13:33,Jurassic Park River Adventure™,5,Open
+2025-12-21 05:13:33,Jurassic World VelociCoaster,65,Open
+2025-12-21 05:13:33,The Amazing Adventures of Spider-Man®,40,Open
+2025-12-21 05:13:33,The Incredible Hulk Coaster®,20,Open
+2025-12-21 05:13:33,Hagrid's Magical Creatures Motorbike Adventure™,155,Open
+2025-12-21 05:23:33,Jurassic Park River Adventure™,5,Open
+2025-12-21 05:23:33,Jurassic World VelociCoaster,65,Open
+2025-12-21 05:23:33,The Amazing Adventures of Spider-Man®,35,Open
+2025-12-21 05:23:33,The Incredible Hulk Coaster®,25,Open
+2025-12-21 05:23:33,Hagrid's Magical Creatures Motorbike Adventure™,155,Open
+2025-12-21 05:33:34,Jurassic Park River Adventure™,5,Open
+2025-12-21 05:33:34,Jurassic World VelociCoaster,55,Open
+2025-12-21 05:33:34,The Amazing Adventures of Spider-Man®,40,Open
+2025-12-21 05:33:34,The Incredible Hulk Coaster®,25,Open
+2025-12-21 05:33:34,Hagrid's Magical Creatures Motorbike Adventure™,155,Open
+2025-12-21 05:43:35,Jurassic Park River Adventure™,5,Open
+2025-12-21 05:43:35,Jurassic World VelociCoaster,55,Open
+2025-12-21 05:43:35,The Amazing Adventures of Spider-Man®,30,Open
+2025-12-21 05:43:35,The Incredible Hulk Coaster®,25,Open
+2025-12-21 05:43:35,Hagrid's Magical Creatures Motorbike Adventure™,155,Open
+2025-12-21 05:53:36,Jurassic Park River Adventure™,5,Open
+2025-12-21 05:53:36,Jurassic World VelociCoaster,55,Open
+2025-12-21 05:53:36,The Amazing Adventures of Spider-Man®,30,Open
+2025-12-21 05:53:36,The Incredible Hulk Coaster®,25,Open
+2025-12-21 05:53:36,Hagrid's Magical Creatures Motorbike Adventure™,155,Open
+2025-12-21 06:03:37,Jurassic Park River Adventure™,5,Open
+2025-12-21 06:03:37,Jurassic World VelociCoaster,55,Open
+2025-12-21 06:03:37,The Amazing Adventures of Spider-Man®,30,Open
+2025-12-21 06:03:37,The Incredible Hulk Coaster®,25,Open
+2025-12-21 06:03:37,Hagrid's Magical Creatures Motorbike Adventure™,155,Open
+2025-12-21 06:13:38,Jurassic Park River Adventure™,5,Open
+2025-12-21 06:13:38,Jurassic World VelociCoaster,55,Open
+2025-12-21 06:13:38,The Amazing Adventures of Spider-Man®,30,Open
+2025-12-21 06:13:38,The Incredible Hulk Coaster®,35,Open
+2025-12-21 06:13:38,Hagrid's Magical Creatures Motorbike Adventure™,170,Open
+2025-12-21 06:23:38,Jurassic Park River Adventure™,5,Open
+2025-12-21 06:23:38,Jurassic World VelociCoaster,55,Open
+2025-12-21 06:23:38,The Amazing Adventures of Spider-Man®,30,Open
+2025-12-21 06:23:38,The Incredible Hulk Coaster®,35,Open
+2025-12-21 06:23:38,Hagrid's Magical Creatures Motorbike Adventure™,170,Open
+2025-12-21 06:33:39,Jurassic Park River Adventure™,5,Open
+2025-12-21 06:33:39,Jurassic World VelociCoaster,55,Open
+2025-12-21 06:33:39,The Amazing Adventures of Spider-Man®,30,Open
+2025-12-21 06:33:39,The Incredible Hulk Coaster®,35,Open
+2025-12-21 06:33:39,Hagrid's Magical Creatures Motorbike Adventure™,160,Open
+2025-12-21 06:43:40,Jurassic Park River Adventure™,5,Open
+2025-12-21 06:43:40,Jurassic World VelociCoaster,75,Open
+2025-12-21 06:43:40,The Amazing Adventures of Spider-Man®,30,Open
+2025-12-21 06:43:40,The Incredible Hulk Coaster®,15,Open
+2025-12-21 06:43:40,Hagrid's Magical Creatures Motorbike Adventure™,160,Open
+2025-12-21 06:53:41,Jurassic Park River Adventure™,5,Open
+2025-12-21 06:53:41,Jurassic World VelociCoaster,75,Open
+2025-12-21 06:53:41,The Amazing Adventures of Spider-Man®,30,Open
+2025-12-21 06:53:41,The Incredible Hulk Coaster®,15,Open
+2025-12-21 06:53:41,Hagrid's Magical Creatures Motorbike Adventure™,160,Open
+2025-12-21 07:03:42,Jurassic Park River Adventure™,5,Open
+2025-12-21 07:03:42,Jurassic World VelociCoaster,75,Open
+2025-12-21 07:03:42,The Amazing Adventures of Spider-Man®,30,Open
+2025-12-21 07:03:42,The Incredible Hulk Coaster®,20,Open
+2025-12-21 07:03:42,Hagrid's Magical Creatures Motorbike Adventure™,170,Open
+2025-12-21 07:13:43,Jurassic Park River Adventure™,5,Open
+2025-12-21 07:13:43,Jurassic World VelociCoaster,75,Open
+2025-12-21 07:13:43,The Amazing Adventures of Spider-Man®,30,Open
+2025-12-21 07:13:43,The Incredible Hulk Coaster®,20,Open
+2025-12-21 07:13:43,Hagrid's Magical Creatures Motorbike Adventure™,170,Open
+2025-12-21 07:23:43,Jurassic Park River Adventure™,5,Open
+2025-12-21 07:23:43,Jurassic World VelociCoaster,50,Open
+2025-12-21 07:23:43,The Amazing Adventures of Spider-Man®,30,Open
+2025-12-21 07:23:43,The Incredible Hulk Coaster®,20,Open
+2025-12-21 07:23:43,Hagrid's Magical Creatures Motorbike Adventure™,170,Open
+2025-12-21 07:33:44,Jurassic Park River Adventure™,5,Open
+2025-12-21 07:33:44,Jurassic World VelociCoaster,50,Open
+2025-12-21 07:33:44,The Amazing Adventures of Spider-Man®,15,Open
+2025-12-21 07:33:44,The Incredible Hulk Coaster®,20,Open
+2025-12-21 07:33:44,Hagrid's Magical Creatures Motorbike Adventure™,160,Open
+2025-12-21 07:43:45,Jurassic Park River Adventure™,5,Open
+2025-12-21 07:43:45,Jurassic World VelociCoaster,55,Open
+2025-12-21 07:43:45,The Amazing Adventures of Spider-Man®,15,Open
+2025-12-21 07:43:45,The Incredible Hulk Coaster®,20,Open
+2025-12-21 07:43:45,Hagrid's Magical Creatures Motorbike Adventure™,160,Open
+2025-12-21 07:53:46,Jurassic Park River Adventure™,5,Open
+2025-12-21 07:53:46,Jurassic World VelociCoaster,60,Open
+2025-12-21 07:53:46,The Amazing Adventures of Spider-Man®,15,Open
+2025-12-21 07:53:46,The Incredible Hulk Coaster®,20,Open
+2025-12-21 07:53:46,Hagrid's Magical Creatures Motorbike Adventure™,160,Open
+2025-12-21 08:03:46,Jurassic Park River Adventure™,5,Open
+2025-12-21 08:03:46,Jurassic World VelociCoaster,55,Open
+2025-12-21 08:03:46,The Amazing Adventures of Spider-Man®,15,Open
+2025-12-21 08:03:46,The Incredible Hulk Coaster®,20,Open
+2025-12-21 08:03:46,Hagrid's Magical Creatures Motorbike Adventure™,160,Open
+2025-12-21 08:13:47,Jurassic Park River Adventure™,5,Open
+2025-12-21 08:13:47,Jurassic World VelociCoaster,55,Open
+2025-12-21 08:13:47,The Amazing Adventures of Spider-Man®,25,Open
+2025-12-21 08:13:47,The Incredible Hulk Coaster®,20,Open
+2025-12-21 08:13:47,Hagrid's Magical Creatures Motorbike Adventure™,140,Open
+2025-12-21 08:23:48,Jurassic Park River Adventure™,5,Open
+2025-12-21 08:23:48,Jurassic World VelociCoaster,55,Open
+2025-12-21 08:23:48,The Amazing Adventures of Spider-Man®,25,Open
+2025-12-21 08:23:48,The Incredible Hulk Coaster®,20,Open
+2025-12-21 08:23:48,Hagrid's Magical Creatures Motorbike Adventure™,140,Open
+2025-12-21 08:33:49,Jurassic Park River Adventure™,5,Open
+2025-12-21 08:33:49,Jurassic World VelociCoaster,55,Open
+2025-12-21 08:33:49,The Amazing Adventures of Spider-Man®,25,Open
+2025-12-21 08:33:49,The Incredible Hulk Coaster®,20,Open
+2025-12-21 08:33:49,Hagrid's Magical Creatures Motorbike Adventure™,120,Open
+2025-12-21 08:43:50,Jurassic Park River Adventure™,5,Open
+2025-12-21 08:43:50,Jurassic World VelociCoaster,55,Open
+2025-12-21 08:43:50,The Amazing Adventures of Spider-Man®,20,Open
+2025-12-21 08:43:50,The Incredible Hulk Coaster®,10,Open
+2025-12-21 08:43:50,Hagrid's Magical Creatures Motorbike Adventure™,120,Open
+2025-12-21 08:53:50,Jurassic Park River Adventure™,5,Open
+2025-12-21 08:53:50,Jurassic World VelociCoaster,35,Open
+2025-12-21 08:53:50,The Amazing Adventures of Spider-Man®,10,Open
+2025-12-21 08:53:50,The Incredible Hulk Coaster®,5,Open
+2025-12-21 08:53:50,Hagrid's Magical Creatures Motorbike Adventure™,120,Open
+2025-12-21 09:03:51,Jurassic Park River Adventure™,5,Open
+2025-12-21 09:03:51,Jurassic World VelociCoaster,35,Open
+2025-12-21 09:03:51,The Amazing Adventures of Spider-Man®,10,Open
+2025-12-21 09:03:51,The Incredible Hulk Coaster®,5,Open
+2025-12-21 09:03:51,Hagrid's Magical Creatures Motorbike Adventure™,120,Open
+2025-12-21 09:13:52,Jurassic Park River Adventure™,5,Open
+2025-12-21 09:13:52,Jurassic World VelociCoaster,35,Open
+2025-12-21 09:13:52,The Amazing Adventures of Spider-Man®,5,Open
+2025-12-21 09:13:52,The Incredible Hulk Coaster®,5,Open
+2025-12-21 09:13:52,Hagrid's Magical Creatures Motorbike Adventure™,120,Open
+2025-12-21 09:23:53,Jurassic Park River Adventure™,5,Open
+2025-12-21 09:23:53,Jurassic World VelociCoaster,25,Open
+2025-12-21 09:23:53,The Amazing Adventures of Spider-Man®,5,Open
+2025-12-21 09:23:53,The Incredible Hulk Coaster®,5,Open
+2025-12-21 09:23:53,Hagrid's Magical Creatures Motorbike Adventure™,100,Open
+2025-12-21 09:43:54,Jurassic Park River Adventure™,5,Open
+2025-12-21 09:43:54,Jurassic World VelociCoaster,25,Open
+2025-12-21 09:43:54,The Amazing Adventures of Spider-Man®,5,Open
+2025-12-21 09:43:54,The Incredible Hulk Coaster®,5,Open
+2025-12-21 09:43:54,Hagrid's Magical Creatures Motorbike Adventure™,75,Open
+2025-12-21 09:53:55,Jurassic Park River Adventure™,5,Open
+2025-12-21 09:53:55,Jurassic World VelociCoaster,25,Open
+2025-12-21 09:53:55,The Amazing Adventures of Spider-Man®,5,Open
+2025-12-21 09:53:55,The Incredible Hulk Coaster®,5,Open
+2025-12-21 09:53:55,Hagrid's Magical Creatures Motorbike Adventure™,45,Open
+2025-12-21 10:03:56,Jurassic Park River Adventure™,5,Open
+2025-12-21 10:03:56,Jurassic World VelociCoaster,25,Open
+2025-12-21 10:03:56,The Amazing Adventures of Spider-Man®,5,Open
+2025-12-21 10:03:56,The Incredible Hulk Coaster®,5,Open
+2025-12-21 10:03:56,Hagrid's Magical Creatures Motorbike Adventure™,45,Open
